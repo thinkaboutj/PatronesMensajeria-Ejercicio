@@ -5,7 +5,7 @@
 package mensajeria_247527;
 
 import java.util.Scanner;
-import newpackage.ManagerEntrega;
+import iterator.ManagerEntrega;
 
 /**
  *

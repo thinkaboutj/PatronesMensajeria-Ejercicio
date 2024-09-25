@@ -1,4 +1,4 @@
-package newpackage;
+package iterator;
 
 import PatronBuilder.BuilderEntrega;
 import dominio.Entrega;

@@ -1,4 +1,4 @@
-package newpackage;
+package iterator;
 
 import PatronFactory.FactoryBicicleta;
 import PatronFactory.FactoryCajaChica;
