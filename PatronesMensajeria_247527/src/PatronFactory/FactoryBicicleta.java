@@ -5,7 +5,6 @@ import dominio.Transporte;
 import interfaces.iFactoryTransporte;
 
 /**
- * Clase FactoryBicicleta
  *
  * Implementa el patrón Factory para crear objetos de tipo Bicicleta. Forma
  * parte del patrón Factory Method, que permite crear diferentes tipos de

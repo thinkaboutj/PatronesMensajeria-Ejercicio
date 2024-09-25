@@ -5,7 +5,6 @@ import dominio.Paquete;
 import interfaces.iFactoryPaquete;
 
 /**
- * Clase FactoryCajaChica
  *
  * Implementa el patrón Factory para crear objetos de tipo CajaChica. Forma
  * parte del patrón Factory Method, que permite crear diferentes tipos de

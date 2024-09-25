@@ -7,7 +7,6 @@ import dominio.Transporte;
 import interfaces.iBuilderEntrega;
 
 /**
- * Clase BuilderEntrega
  *
  * Implementa el patrón Builder para construir objetos de tipo Entrega de forma
  * incremental. Permite establecer paso a paso los atributos de una entrega,

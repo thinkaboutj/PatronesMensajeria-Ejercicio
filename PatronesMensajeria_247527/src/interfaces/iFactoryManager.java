@@ -14,14 +14,24 @@ import dominio.Transporte;
  * @author jesus
  */
 public interface iFactoryManager {
+
     public Paquete crearSobre();
+
     public Paquete crearCajaChica();
+
     public Paquete crearCajaMediana();
+
     public Paquete crearCajaGrande();
+
     public Estandar getEstandar();
+
     public Express servicioExpress();
+
     public Transporte crearDron();
+
     public Transporte crearBicicleta();
+
     public Transporte crearMotocicleta();
+
     public Transporte crearCarro();
 }
